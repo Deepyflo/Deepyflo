@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Renders Florian
+
+[My linkedin](https://www.linkedin.com/in/florian-renders/)
+
+![Me](https://avatars.githubusercontent.com/u/89216521?v=4)
 
 <!--
 **Deepyflo/Deepyflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Deepyflo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepyflo&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepyflo&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
