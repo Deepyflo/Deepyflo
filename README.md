@@ -2,7 +2,6 @@
 
 [My linkedin](https://www.linkedin.com/in/florian-renders/)
 
-![Me](https://avatars.githubusercontent.com/u/89216521?v=4)
 
 <!--
 **Deepyflo/Deepyflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
